@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cost">هزینه صورتحساب</string>
+    <string name="how_was_the_service">سرویس چطور بود؟</string>
+    <string name="amazing">عالی(20%)</string>
+    <string name="good">خوب(18%)</string>
+    <string name="ok">بد نبود(15%)</string>
+    <string name="round_tip">انعام رند شود؟</string>
+    <string name="calculate">محاسبه</string>
+</resources>
